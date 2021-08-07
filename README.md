@@ -6,11 +6,7 @@
 
 ## 🖌 Ilustração
 
-A ilustração pega como referência foi do `sakin kumar` disponível pelo link:
-
-```
-https://dribbble.com/shots/13905960-Signup-page-Concept-CreateWithAdobeXD
-```
+A ilustração pega como referência foi do <a href="https://dribbble.com/shots/13905960-Signup-page-Concept-CreateWithAdobeXD" target="_blank"> sakin kumar</a> disponível pelo link:
 
 ## 💻 Rodando o app
 
