@@ -2,6 +2,8 @@
 
 📜 Tela de Signout Animada com React Native + Animated
 
+![gif](https://user-images.githubusercontent.com/33927459/128608158-b7ef9eda-7fb8-4153-92ca-5b7c4ae2b511.gif)
+
 ## 🖌 Ilustração
 
 A ilustração pega como referência foi do `sakin kumar` disponível pelo link:
