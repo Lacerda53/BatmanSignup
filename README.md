@@ -1,4 +1,4 @@
-# BATMAN SIGNOUT
+# BATMAN SIGNUP
 
 📜 Tela de Signout Animada com React Native + Typescript + Animated
 
