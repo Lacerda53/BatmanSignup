@@ -1,6 +1,6 @@
 # BATMAN SIGNUP
 
-📜 Tela de Signout Animada com React Native + Typescript + Animated
+📜 Tela de SignIn Animada com React Native + Typescript + Animated
 
 ![gif](https://user-images.githubusercontent.com/33927459/128608158-b7ef9eda-7fb8-4153-92ca-5b7c4ae2b511.gif)
 
